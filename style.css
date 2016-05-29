@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.form-group {
+	text-align: left;
+}
+.left-align{
+	text-align: left;
+}
+.center-align{
+	text-align: center;
+}
+.right-align{
+	text-align: right;
+}
+.text-bold{
+	font-weight: bold;
+}
+.no-margin{
+	margin: 0px;
+}
+.clsDatePicker {
+    z-index: 100000;
+}
+.header {
+	padding-top: 20px;
+    padding-bottom: 20px;
+}
+.little-padding {
+	padding: 15px;
+}
+.medium-margin{
+	margin: 30px;
+}
